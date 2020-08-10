@@ -1,0 +1,18 @@
+// Body
+$body-bg: #fffffff2;
+
+// Typography
+$font-family-sans-serif: Arial,Helvetica,sans-serif;
+$font-size-base: 1.1rem;
+
+a {
+    color: inherit;
+    text-decoration: none;
+    &:hover, &:focus {
+        @extend a
+    }
+}
+.header-logo {
+    background-image: linear-gradient(to left,#9f041b,#e32);
+    padding: 7px 0;
+}
