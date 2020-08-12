@@ -12,13 +12,18 @@
             <div class="header-top">
                 <div class="container">header top</div>
             </div>
-            <div class="header-logo">
+            <div class="header-logo clearfix">
                 <div class="container">
-                    <h1><a class="logo-header" href="{{ url('/') }}">LOGO</a></h1>
+                    <h1 class="float-left"><a class="logo-header" href="{{ url('/') }}">LOGO</a></h1>
+                    <div class="float-right">
+                        <input type="text" placeholder="Tìm kiếm tin tức">
+                    </div>
                 </div>
             </div>
             <div class="header-menu">
-                <div class="container">menu</div>
+                <div class="container">
+                    <x-menu/>
+                </div>
             </div>
         </header>
         <div id="app" class="container">@yield('content')</div>

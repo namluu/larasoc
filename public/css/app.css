@@ -10920,3 +10920,20 @@ a:focus {
   padding: 7px 0;
 }
 
+.header-logo h1 {
+  margin-bottom: 0;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.main-menu {
+  border-bottom: 2px solid #e32;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.main-menu a {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
