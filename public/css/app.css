@@ -10937,3 +10937,38 @@ a:focus {
   text-transform: uppercase;
 }
 
+.box-read .box-news {
+  padding: 0;
+}
+
+.box-read .box-news li {
+  line-height: 1.4;
+  margin-bottom: 10px;
+}
+
+.box-read .box-content .card-title {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.box-read .box-focus .card-title {
+  font-size: 1rem;
+}
+
+.box-read .box-focus .card-body {
+  padding: 0.7rem;
+}
+
+.box-read .card-deck.box-focus .card {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.box-read .box-ads .card + .card {
+  margin-top: 1rem;
+}
+
+.box-read .row + .row {
+  margin-top: 1rem;
+}
+

@@ -30,3 +30,40 @@ a {
         text-transform: uppercase;
     }
 }
+.box-read {
+    .box-news {
+        padding: 0;
+        li {
+            line-height: 1.4;
+            margin-bottom: 10px;
+        }
+    }
+    .box-content {
+        .card-title {
+            font-size: 1.3rem;
+            font-weight: bold;
+        }
+    }
+    .box-focus {
+        .card-title {
+            font-size: 1.0rem;
+        }
+        .card-body {
+            padding: 0.7rem;
+        }
+    }
+    .card-deck.box-focus {
+        .card {
+            margin-right: 10px;
+            margin-left: 10px;
+        }
+    }
+    .box-ads {
+        .card+.card {
+            margin-top: 1rem;
+        }
+    }
+    .row+.row {
+        margin-top: 1rem;
+    }
+}
