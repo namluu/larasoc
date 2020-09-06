@@ -47,13 +47,57 @@
         <div id="app" class="container">@yield('content')</div>
         <footer>
             <div class="footer-icon">
-                <div class="container">icon</div>
+                <div class="container">
+                    <p class="textfollow">Theo dõi Tuổi Trẻ Online: </p>
+                </div>
             </div>
             <div class="footer-link">
-                <div class="container">link</div>
+                <div class="container">
+                    <ul class="list-unstyled clearfix">
+                        <li>
+                            <a href="/media.htm" title="MEDIA" rel="nofollow" target="_blank">MEDIA</a>
+                            <a href="/thoi-su.htm" title="THỜI SỰ">THỜI SỰ</a>
+                            <a href="/the-gioi.htm" title="THẾ GIỚI">THẾ GIỚI</a>
+                            <a href="/phap-luat.htm" title="PHÁP LUẬT">PHÁP LUẬT</a>
+                        </li>
+                        <li>
+                            <a href="/media.htm" title="MEDIA" rel="nofollow" target="_blank">MEDIA</a>
+                            <a href="/thoi-su.htm" title="THỜI SỰ">THỜI SỰ</a>
+                            <a href="/the-gioi.htm" title="THẾ GIỚI">THẾ GIỚI</a>
+                            <a href="/phap-luat.htm" title="PHÁP LUẬT">PHÁP LUẬT</a>
+                        </li>
+                        <li>
+                            <a href="/media.htm" title="MEDIA" rel="nofollow" target="_blank">MEDIA</a>
+                            <a href="/thoi-su.htm" title="THỜI SỰ">THỜI SỰ</a>
+                            <a href="/the-gioi.htm" title="THẾ GIỚI">THẾ GIỚI</a>
+                            <a href="/phap-luat.htm" title="PHÁP LUẬT">PHÁP LUẬT</a>
+                        </li>
+                        <li>
+                            <a href="/media.htm" title="MEDIA" rel="nofollow" target="_blank">MEDIA</a>
+                            <a href="/thoi-su.htm" title="THỜI SỰ">THỜI SỰ</a>
+                            <a href="/the-gioi.htm" title="THẾ GIỚI">THẾ GIỚI</a>
+                            <a href="/phap-luat.htm" title="PHÁP LUẬT">PHÁP LUẬT</a>
+                        </li>
+                        <li>
+                            <a href="/media.htm" title="MEDIA" rel="nofollow" target="_blank">MEDIA</a>
+                            <a href="/thoi-su.htm" title="THỜI SỰ">THỜI SỰ</a>
+                            <a href="/the-gioi.htm" title="THẾ GIỚI">THẾ GIỚI</a>
+                            <a href="/phap-luat.htm" title="PHÁP LUẬT">PHÁP LUẬT</a>
+                        </li>
+                    </ul>
+                </div>
             </div>
             <div class="footer-copy">
-                <div class="container">copyright</div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <p>© Copyright 2020 TuoiTre Online, All rights reserved</p>
+                            <p>® Tuổi Trẻ Online giữ bản quyền nội dung trên website này</p>
+                        </div>
+                        <div class="col-md-6"></div>
+                    </div>
+                    
+                </div>
             </div>
         </footer>
         <script src="{{ mix('/js/app.js') }}"></script>

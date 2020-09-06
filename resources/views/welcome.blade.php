@@ -76,26 +76,108 @@
 
 <hr>
 
-<div class="row">
-    <div class="col-md-6"></div>
-    <div class="col-md-6"></div>
+<div class="row box-news-latest">
+    <div class="col-md-6">
+        <p class="title-box">Tin mới</p>
+        <ul class="list-unstyled">
+            <li class="media">
+                <a href=""><img src="https://cdn.tuoitre.vn/zoom/212_132/2020/9/5/cat-do-6-6-9-1read-only-15993169150611272144163-crop-159931699061352826113.jpg" class="mr-3" alt="..."></a>
+                <div class="media-body">
+                    <h5 class="mt-0"><a href="">Cát đỏ: sống bình dị & yêu dữ dội</a></h5>
+                    <span>TTO - Cuộc sống bình dị nhưng tình yêu vô cùng dữ dội của những chàng trai cô gái trong phim Cát đỏ đang thu...</span>
+                </div>
+            </li>
+            <li class="media">
+                <a href=""><img src="https://cdn.tuoitre.vn/zoom/212_132/2020/9/5/anh-nho-dustin-va-thanh-loc-img7373-2read-only-1599315672426571147623-crop-15993159524791252067618.jpg" class="mr-3" alt="..."></a>
+                <div class="media-body">
+                    <h5 class="mt-0"><a href="">Dustin Phúc Nguyễn: Tôi muốn trở thành người kể chuyện hay</a></h5>
+                    <span>TTO - Có một talkshow của riêng mình luôn là niềm ao ước của nhiều MC, nhưng không nhiều MC dám chọn con...</span>
+                </div>
+            </li>
+            <li class="media">
+                <a href=""><img src="https://cdn.tuoitre.vn/zoom/212_132/2020/9/6/thanhhuong-ngay-1-9-17read-only-1599361083710846370189-crop-1599361229963291725314.jpg" class="mr-3" alt="..."></a>
+                <div class="media-body">
+                    <h5 class="mt-0"><a href="">Chơi thể thao đỉnh cao, khổ luyện vẫn chưa đủ</a></h5>
+                    <span>TTO - Trò chuyện với Tuổi Trẻ, các VĐV, HLV nổi tiếng như tay đua Nguyễn Thị Thật, kình ngư Ánh Viên...</span>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="col-md-6">
+        <p class="title-box">Video</p>
+        <ul class="list-unstyled list-inline list-video">
+            <li class="list-inline-item">
+                <a href=""><img width="260" src="https://cdn.tuoitre.vn/zoom/240_135/2020/9/6/hinh-sung--15993705953851969045866.jpg" alt=""></a>
+                <h5><a href="">Video: Lên mạng đặt mua linh kiện rồi học cách chế tạo súng</a></h5>
+            </li>
+            <li class="list-inline-item">
+                <a href=""><img width="260" src="https://cdn.tuoitre.vn/zoom/240_135/2020/9/6/hinh-sung--15993705953851969045866.jpg" alt=""></a>
+                <h5><a href="">Video: Lên mạng đặt mua linh kiện rồi học cách chế tạo súng</a></h5>
+            </li>
+            <li class="list-inline-item">
+                <a href=""><img width="260" src="https://cdn.tuoitre.vn/zoom/240_135/2020/9/6/hinh-sung--15993705953851969045866.jpg" alt=""></a>
+                <h5><a href="">Video: Lên mạng đặt mua linh kiện rồi học cách chế tạo súng</a></h5>
+            </li>
+            <li class="list-inline-item">
+                <a href=""><img width="260" src="https://cdn.tuoitre.vn/zoom/240_135/2020/9/6/hinh-sung--15993705953851969045866.jpg" alt=""></a>
+                <h5><a href="">Video: Lên mạng đặt mua linh kiện rồi học cách chế tạo súng</a></h5>
+            </li>
+        </ul>
+    </div>
 </div>
 
-<div class="flex-center position-ref full-height">
-    <div class="content">
-        <div class="title m-b-md">
-            Laravel
-        </div>
-        <div class="links">
-            <a href="https://laravel.com/docs">Docs</a>
-            <a href="https://laracasts.com">Laracasts</a>
-            <a href="https://laravel-news.com">News</a>
-            <a href="https://blog.laravel.com">Blog</a>
-            <a href="https://nova.laravel.com">Nova</a>
-            <a href="https://forge.laravel.com">Forge</a>
-            <a href="https://vapor.laravel.com">Vapor</a>
-            <a href="https://github.com/laravel/laravel">GitHub</a>
-        </div>
+<div class="row box-news-latest">
+    <div class="col-md-6">
+        <p class="title-box">Thời sự</p>
+        <ul class="list-unstyled">
+            <li class="media">
+                <a href=""><img src="https://cdn.tuoitre.vn/zoom/212_132/2020/9/5/cat-do-6-6-9-1read-only-15993169150611272144163-crop-159931699061352826113.jpg" class="mr-3" alt="..."></a>
+                <div class="media-body">
+                    <h5 class="mt-0"><a href="">Cát đỏ: sống bình dị & yêu dữ dội</a></h5>
+                    <span>TTO - Cuộc sống bình dị nhưng tình yêu vô cùng dữ dội của những chàng trai cô gái trong phim Cát đỏ đang thu...</span>
+                </div>
+            </li>
+            <li class="media">
+                <a href=""><img src="https://cdn.tuoitre.vn/zoom/212_132/2020/9/5/anh-nho-dustin-va-thanh-loc-img7373-2read-only-1599315672426571147623-crop-15993159524791252067618.jpg" class="mr-3" alt="..."></a>
+                <div class="media-body">
+                    <h5 class="mt-0"><a href="">Dustin Phúc Nguyễn: Tôi muốn trở thành người kể chuyện hay</a></h5>
+                    <span>TTO - Có một talkshow của riêng mình luôn là niềm ao ước của nhiều MC, nhưng không nhiều MC dám chọn con...</span>
+                </div>
+            </li>
+            <li class="media">
+                <a href=""><img src="https://cdn.tuoitre.vn/zoom/212_132/2020/9/6/thanhhuong-ngay-1-9-17read-only-1599361083710846370189-crop-1599361229963291725314.jpg" class="mr-3" alt="..."></a>
+                <div class="media-body">
+                    <h5 class="mt-0"><a href="">Chơi thể thao đỉnh cao, khổ luyện vẫn chưa đủ</a></h5>
+                    <span>TTO - Trò chuyện với Tuổi Trẻ, các VĐV, HLV nổi tiếng như tay đua Nguyễn Thị Thật, kình ngư Ánh Viên...</span>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="col-md-6">
+        <p class="title-box">Thế giới</p>
+        <ul class="list-unstyled">
+            <li class="media">
+                <a href=""><img src="https://cdn.tuoitre.vn/zoom/212_132/2020/9/5/cat-do-6-6-9-1read-only-15993169150611272144163-crop-159931699061352826113.jpg" class="mr-3" alt="..."></a>
+                <div class="media-body">
+                    <h5 class="mt-0"><a href="">Cát đỏ: sống bình dị & yêu dữ dội</a></h5>
+                    <span>TTO - Cuộc sống bình dị nhưng tình yêu vô cùng dữ dội của những chàng trai cô gái trong phim Cát đỏ đang thu...</span>
+                </div>
+            </li>
+            <li class="media">
+                <a href=""><img src="https://cdn.tuoitre.vn/zoom/212_132/2020/9/5/anh-nho-dustin-va-thanh-loc-img7373-2read-only-1599315672426571147623-crop-15993159524791252067618.jpg" class="mr-3" alt="..."></a>
+                <div class="media-body">
+                    <h5 class="mt-0"><a href="">Dustin Phúc Nguyễn: Tôi muốn trở thành người kể chuyện hay</a></h5>
+                    <span>TTO - Có một talkshow của riêng mình luôn là niềm ao ước của nhiều MC, nhưng không nhiều MC dám chọn con...</span>
+                </div>
+            </li>
+            <li class="media">
+                <a href=""><img src="https://cdn.tuoitre.vn/zoom/212_132/2020/9/6/thanhhuong-ngay-1-9-17read-only-1599361083710846370189-crop-1599361229963291725314.jpg" class="mr-3" alt="..."></a>
+                <div class="media-body">
+                    <h5 class="mt-0"><a href="">Chơi thể thao đỉnh cao, khổ luyện vẫn chưa đủ</a></h5>
+                    <span>TTO - Trò chuyện với Tuổi Trẻ, các VĐV, HLV nổi tiếng như tay đua Nguyễn Thị Thật, kình ngư Ánh Viên...</span>
+                </div>
+            </li>
+        </ul>
     </div>
 </div>
 @endsection
